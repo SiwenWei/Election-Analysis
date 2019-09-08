@@ -1,8 +1,6 @@
 # Election-Analysis
 
-In this Data Project I looked at data from the 2012 election.
-
-In this project I analyzed two datasets. The first data set will be the results of political polls. I tried to analyze this aggregated poll data for the answers to the following questions:
+In this project I analyzed two datasets from 2012 US election. The first data set is the results of political polls. I tried to analyze this aggregated poll data for the answers to the following questions:
 
 1.) Who was being polled and what was their party affiliation?
 2.) Did the poll results favor Romney or Obama?
